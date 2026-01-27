@@ -6,5 +6,6 @@ int main(){
     cout << n << endl;
     cout << 2*n << endl;
     cout << 3*n << endl;
+    cout << 4*n << endl;
     return 0;
 }
