@@ -5,5 +5,6 @@ int main(){
     cin >> n;
     cout << n << endl;
     cout << 2*n << endl;
+    cout << 3*n << endl;
     return 0;
 }
